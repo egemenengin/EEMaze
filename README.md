@@ -1,2 +1,2 @@
 # EEMaze
- BLueprint First Person Parkour Game
+ Blueprint First Person Parkour Game
